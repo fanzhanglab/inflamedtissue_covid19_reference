@@ -18,4 +18,4 @@ This repo provides the source code for our analysis and figures for
 The single-cell RNA-seq data for blood-derived macrophages are available in the Gene Expression Omnibus database with accession number [GSE168710](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE168710).
 
 ## Contact
-Send us an email (fanzhang@broadinstitute.org and jmears@broadinstitute.org) if you have additional questions!
+Send us an email (fanzhang@broadinstitute.org) if you have additional questions!
